@@ -2,7 +2,7 @@ def multiply(numbers):
     product = 1
     for n in numbers:
         product = product * n
-    return 1
+    return product
 
 def add(numbers):
     sum = 0
