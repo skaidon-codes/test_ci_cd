@@ -1,4 +1,4 @@
 import mymath
 
 def test_multiply():
-    assert 6 == multiply([1,2,3])
+    assert 6 == mymath.multiply([1,2,3])
